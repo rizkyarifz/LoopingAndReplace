@@ -1,0 +1,15 @@
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.csproj.AssemblyReference.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.AssemblyInfoInputs.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.AssemblyInfo.cs
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\bin\Debug\net6.0\LoopingAndReplace.exe
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\bin\Debug\net6.0\LoopingAndReplace.deps.json
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\bin\Debug\net6.0\LoopingAndReplace.runtimeconfig.json
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\bin\Debug\net6.0\LoopingAndReplace.dll
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\bin\Debug\net6.0\LoopingAndReplace.pdb
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.dll
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\refint\LoopingAndReplace.dll
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.pdb
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\LoopingAndReplace.genruntimeconfig.cache
+C:\Users\rzaelani\Documents\Timesheet\data pribadi\PT Asys (Aero System Indonesia)\Technical Test\LoopingAndReplace\LoopingAndReplace\obj\Debug\net6.0\ref\LoopingAndReplace.dll
